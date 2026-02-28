@@ -1,0 +1,130 @@
+Current UE Version: 5.7
+
+Android Studio Version: Koala 2024.1.2 Patch 1 September 17, 2024
+
+Android SDK:
+
+    Recommended: SDK 35
+
+    Minimum for compilation: SDK 34
+
+    Default target SDK for shipping on devices: 34
+
+    Minimum install SDK level: 26
+
+    Different stores have their own target SDK minimum requirements, which may differ from that mentioned above.
+
+NDK Version:  r27c
+
+Build-tools: 35.0.1
+
+Java runtime: OpenJDK 21.0.3 2024-04-16
+
+AGDE v23.2.91+ required for AGDE debugging.
+
+
+
+Android Studio:
+
+Packages to install: - Android SDK Command-line Tools (cmdline-tools;9.0)
+- Android SDK Build-Tools 35.0.1 (build-tools;35.0.1)
+- Android SDK Command-line Tools (cmdline-tools;10.0)
+- Android SDK Command-line Tools (latest) (cmdline-tools;latest)
+- Android SDK Command-line Tools (cmdline-tools;11.0)
+- NDK (Side by side) 27.3.13750724 (ndk;27.3.13750724)
+- Android SDK Platform 35 (platforms;android-35)
+- Android SDK Command-line Tools (cmdline-tools;8.0)
+- Android SDK Command-line Tools (cmdline-tools;16.0-alpha01)
+- Android SDK Command-line Tools (cmdline-tools;16.0)
+- Android SDK Command-line Tools (cmdline-tools;13.0)
+- CMake 4.1.2 (cmake;4.1.2)
+- Sources for Android 26 (sources;android-26)
+- Android SDK Command-line Tools (cmdline-tools;3.0)
+- Android SDK Build-Tools 35 (build-tools;35.0.0)
+- Android SDK Build-Tools 26 (build-tools;26.0.0)
+- Android SDK Command-line Tools (cmdline-tools;6.0)
+- Android SDK Command-line Tools (cmdline-tools;19.0)
+- Android SDK Command-line Tools (cmdline-tools;1.0)
+- Android SDK Command-line Tools (cmdline-tools;5.0)
+- Android SDK Command-line Tools (cmdline-tools;2.1)
+- Android SDK Platform 26 (platforms;android-26)
+- Android SDK Command-line Tools (cmdline-tools;17.0)
+- Sources for Android 35 (sources;android-35)
+- Android SDK Command-line Tools (cmdline-tools;19.0-alpha01)
+- Android SDK Command-line Tools (cmdline-tools;12.0)
+- Android SDK Command-line Tools (cmdline-tools;4.0)
+- Android SDK Command-line Tools (cmdline-tools;20.0)
+- Android SDK Command-line Tools (cmdline-tools;7.0)
+
+
+Android Studio Install:
+
+Packages to install: - Android SDK Command-line Tools (cmdline-tools;9.0)
+- Android SDK Build-Tools 35.0.1 (build-tools;35.0.1)
+- Android SDK Command-line Tools (cmdline-tools;10.0)
+- Android SDK Command-line Tools (latest) (cmdline-tools;latest)
+- Android SDK Command-line Tools (cmdline-tools;11.0)
+- NDK (Side by side) 27.3.13750724 (ndk;27.3.13750724)
+- Android SDK Platform 35 (platforms;android-35)
+- Android SDK Command-line Tools (cmdline-tools;8.0)
+- Android SDK Command-line Tools (cmdline-tools;16.0-alpha01)
+- Android SDK Command-line Tools (cmdline-tools;16.0)
+- Android SDK Command-line Tools (cmdline-tools;13.0)
+- CMake 4.1.2 (cmake;4.1.2)
+- Sources for Android 26 (sources;android-26)
+- Android SDK Command-line Tools (cmdline-tools;3.0)
+- Android SDK Build-Tools 35 (build-tools;35.0.0)
+- Android SDK Build-Tools 26 (build-tools;26.0.0)
+- Android SDK Command-line Tools (cmdline-tools;6.0)
+- Android SDK Command-line Tools (cmdline-tools;19.0)
+- Android SDK Command-line Tools (cmdline-tools;1.0)
+- Android SDK Command-line Tools (cmdline-tools;5.0)
+- Android SDK Command-line Tools (cmdline-tools;2.1)
+- Android SDK Platform 26 (platforms;android-26)
+- Android SDK Command-line Tools (cmdline-tools;17.0)
+- Sources for Android 35 (sources;android-35)
+- Android SDK Command-line Tools (cmdline-tools;19.0-alpha01)
+- Android SDK Command-line Tools (cmdline-tools;12.0)
+- Android SDK Command-line Tools (cmdline-tools;4.0)
+- Android SDK Command-line Tools (cmdline-tools;20.0)
+- Android SDK Command-line Tools (cmdline-tools;7.0)
+
+
+Packages to uninstall: 
+- Android SDK Build-Tools 36.1 (build-tools;36.1.0)
+
+
+Preparing "Install Android SDK Command-line Tools v.9.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-9477386_latest.zip
+"Install Android SDK Command-line Tools v.9.0" ready.
+Preparing "Install Android SDK Build-Tools 35.0.1 v.35.0.1".
+Downloading https://dl.google.com/android/repository/build-tools_r35.0.1_windows.zip
+"Install Android SDK Build-Tools 35.0.1 v.35.0.1" ready.
+Preparing "Install Android SDK Command-line Tools v.10.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-9862592_latest.zip
+"Install Android SDK Command-line Tools v.10.0" ready.
+Preparing "Install Android SDK Command-line Tools (latest) v.20.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-14742923_latest.zip
+"Install Android SDK Command-line Tools (latest) v.20.0" ready.
+Preparing "Install Android SDK Command-line Tools v.11.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-10406996_latest.zip
+"Install Android SDK Command-line Tools v.11.0" ready.
+Preparing "Install NDK (Side by side) 27.3.13750724 v.27.3.13750724".
+Downloading https://dl.google.com/android/repository/android-ndk-r27d-windows.zip
+"Install NDK (Side by side) 27.3.13750724 v.27.3.13750724" ready.
+Preparing "Install Android SDK Platform 35 (revision 2)".
+Downloading https://dl.google.com/android/repository/platform-35_r02.zip
+"Install Android SDK Platform 35 (revision 2)" ready.
+Preparing "Install Android SDK Command-line Tools v.8.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-9123335_latest.zip
+"Install Android SDK Command-line Tools v.8.0" ready.
+Preparing "Install Android SDK Command-line Tools v.16.0.0 rc1".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-12172612_latest.zip
+
+
+
+
+Android Development Keystore Generation:
+
+keytool -genkey -v -keystore ExampleKey.keystore -alias MyKey -keyalg RSA -keysize 2048 -validity 10000
+
