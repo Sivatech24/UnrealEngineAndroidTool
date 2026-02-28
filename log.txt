@@ -1,0 +1,437 @@
+sdk first android studio launch:
+
+Preparing "Install Sources for Android 34 (revision 2)".
+Downloading https://dl.google.com/android/repository/sources-34_r01.zip
+"Install Sources for Android 34 (revision 2)" ready.
+Installing Sources for Android 34 in C:\Users\sivatech24\AppData\Local\Android\Sdk\sources\android-34
+"Install Sources for Android 34 (revision 2)" complete.
+"Install Sources for Android 34 (revision 2)" finished.
+Preparing "Install Android SDK Build-Tools 34 v.34.0.0".
+Downloading https://dl.google.com/android/repository/build-tools_r34-windows.zip
+"Install Android SDK Build-Tools 34 v.34.0.0" ready.
+Installing Android SDK Build-Tools 34 in C:\Users\sivatech24\AppData\Local\Android\Sdk\build-tools\34.0.0
+"Install Android SDK Build-Tools 34 v.34.0.0" complete.
+"Install Android SDK Build-Tools 34 v.34.0.0" finished.
+Preparing "Install Android SDK Platform 34 (revision 3)".
+Downloading https://dl.google.com/android/repository/platform-34-ext7_r03.zip
+"Install Android SDK Platform 34 (revision 3)" ready.
+Installing Android SDK Platform 34 in C:\Users\sivatech24\AppData\Local\Android\Sdk\platforms\android-34
+"Install Android SDK Platform 34 (revision 3)" complete.
+"Install Android SDK Platform 34 (revision 3)" finished.
+Preparing "Install Android SDK Build-Tools 36.1 v.36.1.0".
+Downloading https://dl.google.com/android/repository/build-tools_r36.1_windows.zip
+"Install Android SDK Build-Tools 36.1 v.36.1.0" ready.
+Installing Android SDK Build-Tools 36.1 in C:\Users\sivatech24\AppData\Local\Android\Sdk\build-tools\36.1.0
+"Install Android SDK Build-Tools 36.1 v.36.1.0" complete.
+"Install Android SDK Build-Tools 36.1 v.36.1.0" finished.
+Preparing "Install Android SDK Platform-Tools v.36.0.2".
+Downloading https://dl.google.com/android/repository/platform-tools_r36.0.2-win.zip
+"Install Android SDK Platform-Tools v.36.0.2" ready.
+Installing Android SDK Platform-Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\platform-tools
+"Install Android SDK Platform-Tools v.36.0.2" complete.
+"Install Android SDK Platform-Tools v.36.0.2" finished.
+Preparing "Install Android Emulator v.36.4.9".
+Downloading https://dl.google.com/android/repository/emulator-windows_x64-14788078.zip
+"Install Android Emulator v.36.4.9" ready.
+Installing Android Emulator in C:\Users\sivatech24\AppData\Local\Android\Sdk\emulator
+"Install Android Emulator v.36.4.9" complete.
+"Install Android Emulator v.36.4.9" finished.
+Parsing C:\Users\sivatech24\AppData\Local\Android\Sdk\build-tools\34.0.0\package.xml
+Parsing C:\Users\sivatech24\AppData\Local\Android\Sdk\build-tools\36.1.0\package.xml
+Parsing C:\Users\sivatech24\AppData\Local\Android\Sdk\emulator\package.xml
+Parsing C:\Users\sivatech24\AppData\Local\Android\Sdk\platform-tools\package.xml
+Parsing C:\Users\sivatech24\AppData\Local\Android\Sdk\platforms\android-34\package.xml
+Parsing C:\Users\sivatech24\AppData\Local\Android\Sdk\sources\android-34\package.xml
+Android SDK is up to date.
+
+
+Android sdk setup install:
+
+Packages to install: - Android SDK Command-line Tools (cmdline-tools;9.0)
+- Android SDK Build-Tools 35.0.1 (build-tools;35.0.1)
+- NDK (Side by side) 27.0.12077973 (ndk;27.0.12077973)
+- Android SDK Command-line Tools (cmdline-tools;10.0)
+- Android SDK Command-line Tools (latest) (cmdline-tools;latest)
+- Android SDK Command-line Tools (cmdline-tools;11.0)
+- Android SDK Command-line Tools (cmdline-tools;8.0)
+- Android SDK Command-line Tools (cmdline-tools;16.0-alpha01)
+- Android SDK Command-line Tools (cmdline-tools;16.0)
+- Android SDK Command-line Tools (cmdline-tools;13.0)
+- CMake 4.1.2 (cmake;4.1.2)
+- Android SDK Command-line Tools (cmdline-tools;3.0)
+- Android SDK Build-Tools 35 (build-tools;35.0.0)
+- Android SDK Build-Tools 26 (build-tools;26.0.0)
+- Android SDK Command-line Tools (cmdline-tools;6.0)
+- Android SDK Command-line Tools (cmdline-tools;19.0)
+- Android SDK Command-line Tools (cmdline-tools;1.0)
+- Android SDK Command-line Tools (cmdline-tools;5.0)
+- Android SDK Command-line Tools (cmdline-tools;2.1)
+- Android SDK Command-line Tools (cmdline-tools;17.0)
+- Android SDK Command-line Tools (cmdline-tools;19.0-alpha01)
+- Android SDK Command-line Tools (cmdline-tools;12.0)
+- Android SDK Command-line Tools (cmdline-tools;4.0)
+- Android SDK Command-line Tools (cmdline-tools;20.0)
+- Android SDK Command-line Tools (cmdline-tools;7.0)
+
+
+Packages to uninstall: 
+- Android SDK Build-Tools 36.1 (build-tools;36.1.0)
+
+
+Preparing "Install Android SDK Command-line Tools v.9.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-9477386_latest.zip
+"Install Android SDK Command-line Tools v.9.0" ready.
+Preparing "Install Android SDK Build-Tools 35.0.1 v.35.0.1".
+Downloading https://dl.google.com/android/repository/build-tools_r35.0.1_windows.zip
+"Install Android SDK Build-Tools 35.0.1 v.35.0.1" ready.
+Preparing "Install NDK (Side by side) 27.0.12077973 v.27.0.12077973".
+Downloading https://dl.google.com/android/repository/android-ndk-r27-windows.zip
+"Install NDK (Side by side) 27.0.12077973 v.27.0.12077973" ready.
+Preparing "Install Android SDK Command-line Tools v.10.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-9862592_latest.zip
+"Install Android SDK Command-line Tools v.10.0" ready.
+Preparing "Install Android SDK Command-line Tools (latest) v.20.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-14742923_latest.zip
+"Install Android SDK Command-line Tools (latest) v.20.0" ready.
+Preparing "Install Android SDK Command-line Tools v.11.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-10406996_latest.zip
+"Install Android SDK Command-line Tools v.11.0" ready.
+Preparing "Install Android SDK Command-line Tools v.8.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-9123335_latest.zip
+"Install Android SDK Command-line Tools v.8.0" ready.
+Preparing "Install Android SDK Command-line Tools v.16.0.0 rc1".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-12172612_latest.zip
+"Install Android SDK Command-line Tools v.16.0.0 rc1" ready.
+Preparing "Install Android SDK Command-line Tools v.16.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-12266719_latest.zip
+"Install Android SDK Command-line Tools v.16.0" ready.
+Preparing "Install Android SDK Command-line Tools v.13.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-11479570_latest.zip
+"Install Android SDK Command-line Tools v.13.0" ready.
+Preparing "Install CMake 4.1.2 v.4.1.2".
+Downloading https://dl.google.com/android/repository/cmake-4.1.2-windows.zip
+"Install CMake 4.1.2 v.4.1.2" ready.
+Preparing "Install Android SDK Command-line Tools v.3.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-6858069_latest.zip
+"Install Android SDK Command-line Tools v.3.0" ready.
+Preparing "Install Android SDK Build-Tools 35 v.35.0.0".
+Downloading https://dl.google.com/android/repository/build-tools_r35_windows.zip
+"Install Android SDK Build-Tools 35 v.35.0.0" ready.
+Preparing "Install Android SDK Build-Tools 26 v.26.0.0".
+Downloading https://dl.google.com/android/repository/build-tools_r26-windows.zip
+"Install Android SDK Build-Tools 26 v.26.0.0" ready.
+Preparing "Install Android SDK Command-line Tools v.6.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-8092744_latest.zip
+"Install Android SDK Command-line Tools v.6.0" ready.
+Preparing "Install Android SDK Command-line Tools v.19.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-13114758_latest.zip
+"Install Android SDK Command-line Tools v.19.0" ready.
+Preparing "Install Android SDK Command-line Tools v.1.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-6200805_latest.zip
+"Install Android SDK Command-line Tools v.1.0" ready.
+Preparing "Install Android SDK Command-line Tools v.5.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-7583922_latest.zip
+"Install Android SDK Command-line Tools v.5.0" ready.
+Preparing "Install Android SDK Command-line Tools v.2.1".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-6609375_latest.zip
+"Install Android SDK Command-line Tools v.2.1" ready.
+Preparing "Install Android SDK Command-line Tools v.17.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-12700392_latest.zip
+"Install Android SDK Command-line Tools v.17.0" ready.
+Preparing "Install Android SDK Command-line Tools v.19.0.0 rc1".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-12996373_latest.zip
+"Install Android SDK Command-line Tools v.19.0.0 rc1" ready.
+Preparing "Install Android SDK Command-line Tools v.12.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-11076708_latest.zip
+"Install Android SDK Command-line Tools v.12.0" ready.
+Preparing "Install Android SDK Command-line Tools v.4.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-7302050_latest.zip
+"Install Android SDK Command-line Tools v.4.0" ready.
+Preparing "Install Android SDK Command-line Tools v.20.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-14742923_latest.zip
+"Install Android SDK Command-line Tools v.20.0" ready.
+Preparing "Install Android SDK Command-line Tools v.7.0".
+Downloading https://dl.google.com/android/repository/commandlinetools-win-8512546_latest.zip
+"Install Android SDK Command-line Tools v.7.0" ready.
+Preparing "Uninstall Android SDK Build-Tools 36.1 v.36.1.0".
+"Uninstall Android SDK Build-Tools 36.1 v.36.1.0" ready.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\9.0
+"Install Android SDK Command-line Tools v.9.0" complete.
+"Install Android SDK Command-line Tools v.9.0" finished.
+Installing Android SDK Build-Tools 35.0.1 in C:\Users\sivatech24\AppData\Local\Android\Sdk\build-tools\35.0.1
+"Install Android SDK Build-Tools 35.0.1 v.35.0.1" complete.
+"Install Android SDK Build-Tools 35.0.1 v.35.0.1" finished.
+Installing NDK (Side by side) 27.0.12077973 in C:\Users\sivatech24\AppData\Local\Android\Sdk\ndk\27.0.12077973
+"Install NDK (Side by side) 27.0.12077973 v.27.0.12077973" complete.
+"Install NDK (Side by side) 27.0.12077973 v.27.0.12077973" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\10.0
+"Install Android SDK Command-line Tools v.10.0" complete.
+"Install Android SDK Command-line Tools v.10.0" finished.
+Installing Android SDK Command-line Tools (latest) in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\latest
+"Install Android SDK Command-line Tools (latest) v.20.0" complete.
+"Install Android SDK Command-line Tools (latest) v.20.0" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\11.0
+"Install Android SDK Command-line Tools v.11.0" complete.
+"Install Android SDK Command-line Tools v.11.0" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\8.0
+"Install Android SDK Command-line Tools v.8.0" complete.
+"Install Android SDK Command-line Tools v.8.0" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\16.0-alpha01
+"Install Android SDK Command-line Tools v.16.0.0 rc1" complete.
+"Install Android SDK Command-line Tools v.16.0.0 rc1" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\16.0
+"Install Android SDK Command-line Tools v.16.0" complete.
+"Install Android SDK Command-line Tools v.16.0" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\13.0
+"Install Android SDK Command-line Tools v.13.0" complete.
+"Install Android SDK Command-line Tools v.13.0" finished.
+Installing CMake 4.1.2 in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmake\4.1.2
+"Install CMake 4.1.2 v.4.1.2" complete.
+"Install CMake 4.1.2 v.4.1.2" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\3.0
+"Install Android SDK Command-line Tools v.3.0" complete.
+"Install Android SDK Command-line Tools v.3.0" finished.
+Installing Android SDK Build-Tools 35 in C:\Users\sivatech24\AppData\Local\Android\Sdk\build-tools\35.0.0
+"Install Android SDK Build-Tools 35 v.35.0.0" complete.
+"Install Android SDK Build-Tools 35 v.35.0.0" finished.
+Installing Android SDK Build-Tools 26 in C:\Users\sivatech24\AppData\Local\Android\Sdk\build-tools\26.0.0
+"Install Android SDK Build-Tools 26 v.26.0.0" complete.
+"Install Android SDK Build-Tools 26 v.26.0.0" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\6.0
+"Install Android SDK Command-line Tools v.6.0" complete.
+"Install Android SDK Command-line Tools v.6.0" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\19.0
+"Install Android SDK Command-line Tools v.19.0" complete.
+"Install Android SDK Command-line Tools v.19.0" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\1.0
+"Install Android SDK Command-line Tools v.1.0" complete.
+"Install Android SDK Command-line Tools v.1.0" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\5.0
+"Install Android SDK Command-line Tools v.5.0" complete.
+"Install Android SDK Command-line Tools v.5.0" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\2.1
+"Install Android SDK Command-line Tools v.2.1" complete.
+"Install Android SDK Command-line Tools v.2.1" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\17.0
+"Install Android SDK Command-line Tools v.17.0" complete.
+"Install Android SDK Command-line Tools v.17.0" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\19.0-alpha01
+"Install Android SDK Command-line Tools v.19.0.0 rc1" complete.
+"Install Android SDK Command-line Tools v.19.0.0 rc1" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\12.0
+"Install Android SDK Command-line Tools v.12.0" complete.
+"Install Android SDK Command-line Tools v.12.0" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\4.0
+"Install Android SDK Command-line Tools v.4.0" complete.
+"Install Android SDK Command-line Tools v.4.0" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\20.0
+"Install Android SDK Command-line Tools v.20.0" complete.
+"Install Android SDK Command-line Tools v.20.0" finished.
+Installing Android SDK Command-line Tools in C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\7.0
+"Install Android SDK Command-line Tools v.7.0" complete.
+"Install Android SDK Command-line Tools v.7.0" finished.
+"Uninstall Android SDK Build-Tools 36.1 v.36.1.0" complete.
+"Uninstall Android SDK Build-Tools 36.1 v.36.1.0" finished.
+
+
+cmd log:
+
+
+Microsoft Windows [Version 10.0.26100.1742]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Program Files\Epic Games\UE_5.7\Engine\Extras\Android>dir
+ Volume in drive C has no label.
+ Volume Serial Number is B0F1-FCAD
+
+ Directory of C:\Program Files\Epic Games\UE_5.7\Engine\Extras\Android
+
+01/06/2026  07:41 PM    <DIR>          .
+01/06/2026  07:41 PM    <DIR>          ..
+01/06/2026  07:04 PM             3,975 SetupAndroid.bat
+01/06/2026  07:04 PM             5,625 SetupAndroid.command
+01/06/2026  07:04 PM             4,078 SetupAndroid.sh
+01/06/2026  07:04 PM             3,789 SetupAndroidEmulator.bat
+01/06/2026  07:04 PM             4,401 SetupAndroidEmulator.command
+01/06/2026  07:04 PM             4,656 SetupAndroidEmulator.sh
+               6 File(s)         26,524 bytes
+               2 Dir(s)  187,919,040,512 bytes free
+
+C:\Program Files\Epic Games\UE_5.7\Engine\Extras\Android>SetupAndroid.bat
+
+Android Studio Path: C:\Program Files\Android\Android Studio
+Android Studio SDK Path: C:\Users\sivatech24\AppData\Local\Android\Sdk
+Using sdkmanager: C:\Users\sivatech24\AppData\Local\Android\Sdk\cmdline-tools\latest\bin\sdkmanager.bat
+[=======================================] 100% Unzipping... share/vim/vimfiles/s
+
+Success
+Press any key to continue . . .
+
+
+KeyTool Log:
+
+
+Microsoft Windows [Version 10.0.26100.1742]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\System32>cd C:\Program Files\Java\jdk-21\bin
+
+C:\Program Files\Java\jdk-21\bin>dir
+ Volume in drive C has no label.
+ Volume Serial Number is B0F1-FCAD
+
+ Directory of C:\Program Files\Java\jdk-21\bin
+
+02/25/2026  07:53 PM    <DIR>          .
+02/25/2026  07:53 PM    <DIR>          ..
+02/25/2026  07:53 PM            22,008 api-ms-win-core-console-l1-1-0.dll
+02/25/2026  07:53 PM            21,968 api-ms-win-core-console-l1-2-0.dll
+02/25/2026  07:53 PM            22,016 api-ms-win-core-datetime-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-core-debug-l1-1-0.dll
+02/25/2026  07:53 PM            21,968 api-ms-win-core-errorhandling-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-core-fibers-l1-1-0.dll
+02/25/2026  07:53 PM            26,120 api-ms-win-core-file-l1-1-0.dll
+02/25/2026  07:53 PM            22,016 api-ms-win-core-file-l1-2-0.dll
+02/25/2026  07:53 PM            22,016 api-ms-win-core-file-l2-1-0.dll
+02/25/2026  07:53 PM            21,968 api-ms-win-core-handle-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-core-heap-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-core-interlocked-l1-1-0.dll
+02/25/2026  07:53 PM            21,984 api-ms-win-core-libraryloader-l1-1-0.dll
+02/25/2026  07:53 PM            21,984 api-ms-win-core-localization-l1-2-0.dll
+02/25/2026  07:53 PM            22,008 api-ms-win-core-memory-l1-1-0.dll
+02/25/2026  07:53 PM            21,984 api-ms-win-core-namedpipe-l1-1-0.dll
+02/25/2026  07:53 PM            22,016 api-ms-win-core-processenvironment-l1-1-0.dll
+02/25/2026  07:53 PM            21,968 api-ms-win-core-processthreads-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-core-processthreads-l1-1-1.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-core-profile-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-core-rtlsupport-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-core-string-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-core-synch-l1-1-0.dll
+02/25/2026  07:53 PM            22,008 api-ms-win-core-synch-l1-2-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-core-sysinfo-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-core-timezone-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-core-util-l1-1-0.dll
+02/25/2026  07:53 PM            22,008 api-ms-win-crt-conio-l1-1-0.dll
+02/25/2026  07:53 PM            26,120 api-ms-win-crt-convert-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-crt-environment-l1-1-0.dll
+02/25/2026  07:53 PM            21,984 api-ms-win-crt-filesystem-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-crt-heap-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-crt-locale-l1-1-0.dll
+02/25/2026  07:53 PM            30,160 api-ms-win-crt-math-l1-1-0.dll
+02/25/2026  07:53 PM            30,216 api-ms-win-crt-multibyte-l1-1-0.dll
+02/25/2026  07:53 PM            75,264 api-ms-win-crt-private-l1-1-0.dll
+02/25/2026  07:53 PM            21,968 api-ms-win-crt-process-l1-1-0.dll
+02/25/2026  07:53 PM            26,120 api-ms-win-crt-runtime-l1-1-0.dll
+02/25/2026  07:53 PM            26,120 api-ms-win-crt-stdio-l1-1-0.dll
+02/25/2026  07:53 PM            26,080 api-ms-win-crt-string-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-crt-time-l1-1-0.dll
+02/25/2026  07:53 PM            22,024 api-ms-win-crt-utility-l1-1-0.dll
+02/25/2026  07:53 PM            29,296 attach.dll
+02/25/2026  07:53 PM         1,480,816 awt.dll
+02/25/2026  07:53 PM            36,976 dt_shmem.dll
+02/25/2026  07:53 PM            36,464 dt_socket.dll
+02/25/2026  07:53 PM            24,176 extnet.dll
+02/25/2026  07:53 PM           906,352 fontmanager.dll
+02/25/2026  07:53 PM           547,440 freetype.dll
+02/25/2026  07:53 PM            52,336 instrument.dll
+02/25/2026  07:53 PM            50,800 j2gss.dll
+02/25/2026  07:53 PM            26,224 j2pcsc.dll
+02/25/2026  07:53 PM            80,496 j2pkcs11.dll
+02/25/2026  07:53 PM            28,272 jaas.dll
+02/25/2026  07:53 PM            45,168 jabswitch.exe
+02/25/2026  07:53 PM           106,608 jaccessinspector.exe
+02/25/2026  07:53 PM            70,768 jaccesswalker.exe
+02/25/2026  07:53 PM            23,664 jar.exe
+02/25/2026  07:53 PM            23,664 jarsigner.exe
+02/25/2026  07:53 PM           120,944 java.dll
+02/25/2026  07:53 PM            54,384 java.exe
+02/25/2026  07:53 PM           307,824 javaaccessbridge.dll
+02/25/2026  07:53 PM            23,664 javac.exe
+02/25/2026  07:53 PM            23,664 javadoc.exe
+02/25/2026  07:53 PM           181,872 javajpeg.dll
+02/25/2026  07:53 PM            23,664 javap.exe
+02/25/2026  07:53 PM            54,384 javaw.exe
+02/25/2026  07:53 PM            21,104 jawt.dll
+02/25/2026  07:53 PM            23,664 jcmd.exe
+02/25/2026  07:53 PM            23,664 jconsole.exe
+02/25/2026  07:53 PM            23,664 jdb.exe
+02/25/2026  07:53 PM            23,664 jdeprscan.exe
+02/25/2026  07:53 PM            23,664 jdeps.exe
+02/25/2026  07:53 PM           235,632 jdwp.dll
+02/25/2026  07:53 PM            23,664 jfr.exe
+02/25/2026  07:53 PM            23,664 jhsdb.exe
+02/25/2026  07:53 PM            33,392 jimage.dll
+02/25/2026  07:53 PM            23,664 jimage.exe
+02/25/2026  07:53 PM            23,664 jinfo.exe
+02/25/2026  07:53 PM            91,760 jli.dll
+02/25/2026  07:53 PM            23,664 jlink.exe
+02/25/2026  07:53 PM            23,664 jmap.exe
+02/25/2026  07:53 PM            23,664 jmod.exe
+02/25/2026  07:53 PM           137,328 jpackage.dll
+02/25/2026  07:53 PM            23,664 jpackage.exe
+02/25/2026  07:53 PM            23,664 jps.exe
+02/25/2026  07:53 PM            24,176 jrunscript.exe
+02/25/2026  07:53 PM            23,664 jshell.exe
+02/25/2026  07:53 PM            61,040 jsound.dll
+02/25/2026  07:53 PM            23,664 jstack.exe
+02/25/2026  07:53 PM            23,664 jstat.exe
+02/25/2026  07:53 PM            23,664 jstatd.exe
+02/25/2026  07:53 PM           870,000 jsvml.dll
+02/25/2026  07:53 PM            24,176 jwebserver.exe
+02/25/2026  07:53 PM            23,664 keytool.exe
+02/25/2026  07:53 PM            23,664 kinit.exe
+02/25/2026  07:53 PM            23,664 klist.exe
+02/25/2026  07:53 PM            23,664 ktab.exe
+02/25/2026  07:53 PM           252,016 lcms.dll
+02/25/2026  07:53 PM            35,440 le.dll
+02/25/2026  07:53 PM            29,296 management.dll
+02/25/2026  07:53 PM            24,688 management_agent.dll
+02/25/2026  07:53 PM            35,952 management_ext.dll
+02/25/2026  07:53 PM           525,424 mlib_image.dll
+02/25/2026  07:53 PM           578,384 msvcp140.dll
+02/25/2026  07:53 PM            59,504 net.dll
+02/25/2026  07:53 PM            79,984 nio.dll
+02/25/2026  07:53 PM            25,712 prefs.dll
+02/25/2026  07:53 PM            21,104 rmi.dll
+02/25/2026  07:53 PM            24,176 rmiregistry.exe
+02/25/2026  07:53 PM            39,024 saproc.dll
+02/25/2026  07:53 PM            23,664 serialver.exe
+02/25/2026  07:53 PM    <DIR>          server
+02/25/2026  07:53 PM           221,296 splashscreen.dll
+02/25/2026  07:53 PM            45,168 sspi_bridge.dll
+02/25/2026  07:53 PM            48,752 sunmscapi.dll
+02/25/2026  07:53 PM            27,760 syslookup.dll
+02/25/2026  07:53 PM         1,123,808 ucrtbase.dll
+02/25/2026  07:53 PM           109,440 vcruntime140.dll
+02/25/2026  07:53 PM            49,560 vcruntime140_1.dll
+02/25/2026  07:53 PM            54,896 verify.dll
+02/25/2026  07:53 PM            31,344 w2k_lsa_auth.dll
+02/25/2026  07:53 PM            72,816 windowsaccessbridge-64.dll
+02/25/2026  07:53 PM            89,200 zip.dll
+             123 File(s)     11,022,024 bytes
+               3 Dir(s)  182,869,159,936 bytes free
+
+C:\Program Files\Java\jdk-21\bin>keytool -genkey -v -keystore ExampleKey.keystore -alias MyKey -keyalg RSA -keysize 2048 -validity 10000
+Enter keystore password:
+
+Re-enter new password:
+
+Enter the distinguished name. Provide a single dot (.) to leave a sub-component empty or press ENTER to use the default value in braces.
+What is your first and last name?
+  [Unknown]:  yy
+What is the name of your organizational unit?
+  [Unknown]:  yy
+What is the name of your organization?
+  [Unknown]:  yy
+What is the name of your City or Locality?
+  [Unknown]:  yy
+What is the name of your State or Province?
+  [Unknown]:  yy
+What is the two-letter country code for this unit?
+  [Unknown]:  11
+Is CN=yy, OU=yy, O=yy, L=yy, ST=yy, C=11 correct?
+  [no]:  yes
+
+Generating 2,048 bit RSA key pair and self-signed certificate (SHA384withRSA) with a validity of 10,000 days
+        for: CN=yy, OU=yy, O=yy, L=yy, ST=yy, C=11
+[Storing ExampleKey.keystore]
